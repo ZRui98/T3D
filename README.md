@@ -1,2 +1,2 @@
-# T3D
+# T3D: Pseudo 3D Tower Defense
 Gr. 12 ISU
