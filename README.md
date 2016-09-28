@@ -1,6 +1,10 @@
 # T3D: Pseudo 3D Tower Defense
-Gr. 12 ISU
 
+
+
+#Purpose: Gr. 12 ISU
+
+Source Code & Resources for a game that I had worked on in 2016 for an ISU.
 
 
 
