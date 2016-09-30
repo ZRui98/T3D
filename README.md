@@ -4,7 +4,7 @@ A pseudo 3d game where a player navigates a square tile based map placing down t
 
 #Purpose 
 
-Source Code & Resources for a game that I had worked on in 2016 for an ISU. I am no longer working on this project.
+Source Code & Resources for a game that I had worked on in 2016 for an ISU. Goals of this job was to use object oriented programming to create a functioning program. I am no longer working on this project.
 
 #Issues
 
